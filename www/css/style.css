@@ -1,9 +1,15 @@
 /* Empty. Add your own CSS if you like */
 
 .bar-height {
-  height: 55px !important;
+  height: 60px !important;
 }
 
 .bar-positive .title {
-  margin: 10px 10px 0 10px;
+  margin: 15px 10px 0 10px;
+}
+
+.bar-positive .button {
+  font-size: 22px;
+  margin: 15px 0 10px 0;
+  border: 0px;
 }
