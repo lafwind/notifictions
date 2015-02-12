@@ -1,1 +1,9 @@
 /* Empty. Add your own CSS if you like */
+
+.bar-height {
+  height: 55px !important;
+}
+
+.bar-positive .title {
+  margin: 10px 10px 0 10px;
+}
