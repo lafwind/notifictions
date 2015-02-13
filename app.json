@@ -1,0 +1,7 @@
+{
+  "name": "Gift",
+  "description": "A gift",
+  "repository": "https://github.com/lafwind/notifictions",
+  "logo": "http://pathToYourLogo.png",
+  "keywords": ["ionic", "gift", "whatever"]
+}
